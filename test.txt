@@ -1,1 +1,8 @@
-Test file !!!
+Test file !!
+
+I have added some local changes
+Now i need to :
+commit to the MASTER
+Push to the repository !
+
+!
